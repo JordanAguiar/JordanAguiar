@@ -39,8 +39,10 @@ Project focused on **programming logic**, control flow, and structured problem s
 Web application consuming a public API using **JavaScript**, **HTML**, and **CSS**.  
 🔗 https://github.com/JordanAguiar/pokedex
 
-### 📊 Academic Projects (C Language)
-Projects focused on **algorithms**, **data structures**, and **logical reasoning**, reinforcing strong programming fundamentals.
+### 👤 User Registration – CRUD Training
+Backend training project focused on **CRUD operations**, applying core **Java backend concepts** such as data handling, structured logic, and persistence fundamentals.  
+The project was developed to practice **Create, Read, Update, and Delete** operations, reinforcing backend workflows and software organization.
+🔗 https://github.com/JordanAguiar/CadastroUsuario
 
 ---
 
