@@ -23,29 +23,6 @@ I'm a **Backend Software Engineer** focused on **Java**, with experience in buil
 - JavaScript, HTML, CSS
 - Jupyter Notebook
 
----
-
-## 📂 Featured Projects
-
-### 🧠 Heart Disease Prediction
-Data analysis and machine learning project using **Python**, focusing on data processing, feature analysis, and predictive modeling.  
-🔗 https://github.com/JordanAguiar/Previsao-doenca-cardiaca
-
-### 🎮 Star Wars – Space Invaders
-Project focused on **programming logic**, control flow, and structured problem solving.  
-🔗 https://github.com/JordanAguiar/Starwars-SpaceInvaders
-
-### 🌐 Pokédex Web App
-Web application consuming a public API using **JavaScript**, **HTML**, and **CSS**.  
-🔗 https://github.com/JordanAguiar/pokedex
-
-### 👤 User Registration – CRUD Training
-Backend training project focused on **CRUD operations**, applying core **Java backend concepts** such as data handling, structured logic, and persistence fundamentals.  
-The project was developed to practice **Create, Read, Update, and Delete** operations, reinforcing backend workflows and software organization.
-🔗 https://github.com/JordanAguiar/CadastroUsuario
-
----
-
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanAguiar&layout=compact)
