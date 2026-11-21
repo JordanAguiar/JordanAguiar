@@ -4,7 +4,7 @@ I'm a **Software Engineering** student currently working as an **intern at Milet
 
 Curious by nature, I love learning and I'm addicted to studying. 📚
 
-🎓 Software Engineering  
+🎓 Computer Science
 🌍 Brazil  
 💼 Intern @ Mileto | Security | Infrastructure | Automation  
 🚀 Creator of **BipBip**  
