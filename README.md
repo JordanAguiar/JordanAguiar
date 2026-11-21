@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Jordan Aguiar
 
-I'm a **Software Engineering** student currently working as an **intern at Mileto**, a technology company, where I work with **Cybersecurity** and **IT Infrastructure**. In my free time I build **automations** and **software**.
+I'm a **Software Engineering** student currently working as an **intern at Mileto**, a technology company, where I work with **Cybersecurity** and **IT Infrastructure**. In my free time I build **automations** and **software**, and I'm the creator of **BipBip**. 🚀
 
 Curious by nature, I love learning and I'm addicted to studying. 📚
 
 🎓 Software Engineering  
 🌍 Brazil  
 💼 Intern @ Mileto | Security | Infrastructure | Automation  
+🚀 Creator of **BipBip**  
 
 ---
 
@@ -24,6 +25,7 @@ Curious by nature, I love learning and I'm addicted to studying. 📚
 
 ### ⚙️ In my free time
 - Building **automations** and **programs** to solve real problems
+- Creating and evolving **BipBip** 🚀, my own project
 
 ---
 
